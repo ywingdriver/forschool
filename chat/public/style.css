@@ -1,0 +1,28 @@
+body {
+  background-color: rgba(20,20,20,.9);
+  color:white;
+  font-family: Arial;
+}
+
+#content {
+  background-color: white;
+  color: black;
+}
+
+input {
+  margin-left: 10px;
+}
+
+.message {
+  width: 100%;
+}
+
+.p1 {
+  background-color: rgba(80,200,80,.1);
+}
+
+
+.p2 {
+  text-align: right;
+  background-color: rgba(200,80,80,.1);
+}

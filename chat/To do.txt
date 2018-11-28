@@ -1,0 +1,9 @@
+Get node.js installed
+Get socket.io installed
+Get jade installed
+Get ExpressJS installed
+
+1. Add a name to the message that is being sent
+2. Remove the text from the text field after the send button is clicked
+3. Make the look more appealing
+4. Change the title of the tab when a message is received
